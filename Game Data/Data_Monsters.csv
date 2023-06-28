@@ -1,0 +1,152 @@
+Number,Name,Type 1,Type 2,HP,ATK,DEF,SPEED,EXP Yield,Evo Level,Evo Name,Move 1,Move 2,Move 3,Move 4
+001,Bulbasaur,Grass,Poison,45,57,57,45,64,16,Ivysaur,Tackle,Leafage,Poison Sting,
+002,Ivysaur,Grass,Poison,60,71,71,60,141,32,Venusaur,Slam,Leafage,Razor Leaf,Sludge
+003,Venusaur,Grass,Poison,80,91,91,80,208,,,Razor Leaf,Solar Beam,Earthquake,Sludge
+004,Charmander,Fire,,39,56,46,65,65,16,Charmeleon,Scratch,Ember,,
+005,Charmeleon,Fire,,58,72,61,80,142,36,Charizard,Metal Claw,Ember,Flamethrower,
+006,Charizard,Fire,Flying,78,96,81,100,209,,,Flamethrower,Fire Blast,Earthquake,Dragon Breath
+007,Squirtle,Water,,44,49,64,43,66,16,Wartortle,Tackle,Water Gun,,
+008,Wartortle,Water,,59,64,80,58,143,36,Blastoise,Slam,Bubble Beam,Bite,
+009,Blastoise,Water,,79,84,102,78,210,,,Surf,Hydro Pump,Ice Beam,Flash Cannon
+010,Caterpie,Bug,,45,25,27,45,53,7,Metapod,Twineedle,Tackle,,
+011,Metapod,Bug,,50,22,40,30,72,10,Butterfree,Bug Bite,Tackle,,
+012,Butterfree,Bug,Flying,60,67,65,70,160,,,Bug Bite,Sludge,Confusion,
+013,Weedle,Bug,Poison,40,27,25,50,52,7,Kakuna,Twineedle,Poison Sting,,
+014,Kakuna,Bug,Poison,45,25,37,35,71,10,Beedrill,Bug Bite,Poison Sting,,
+015,Beedrill,Bug,Poison,65,67,60,75,159,,,Leech Life,Poison Jab,,
+016,Pidgey,Normal,Flying,40,40,37,56,55,18,Pidgeotto,Scratch,Gust,,
+017,Pidgeotto,Normal,Flying,63,55,52,71,113,36,Pidgeot,Scratch,Gust,Wing Attack,
+018,Pidgeot,Normal,Flying,83,75,72,101,172,,,Slash,Wing Attack,Drill Peck,Dragon Claw
+019,Rattata,Normal,,30,40,35,72,57,20,Raticate,Scratch,Bite,,
+020,Raticate,Normal,,55,65,65,97,116,,,Hyper Fang,Crunch,Dig,
+021,Spearow,Normal,Flying,40,45,30,70,58,20,Fearow,Scratch,Gust,,
+022,Fearow,Normal,Flying,65,75,63,100,162,,,Body Slam,Drill Peck,Blizzard,
+023,Ekans,Poison,,35,50,49,55,62,22,Arbok,Constrict,Acid,,
+024,Arbok,Poison,,60,75,74,80,147,,,Hyper Fang,Bite,Poison Jab,
+025,Pikachu,Electric,,35,52,45,90,82,25,Raichu,Pound,Thunder Shock,,
+026,Raichu,Electric,,60,90,67,110,122,,,Slam,Thunderbolt,Thunder,
+027,Sandshrew,Ground,,50,47,57,40,93,22,Sandslash,Tackle,Mud Slap,,
+028,Sandslash,Ground,,75,72,82,65,163,,,Slash,Dig,Earthquake,
+029,Nidoran F,Poison,,55,43,46,41,59,16,Nidorina,Scratch,Poison Sting,,
+030,Nidorina,Poison,,70,58,61,56,117,32,Nidoqueen,Stomp,Sludge,Mud Slap,
+031,Nidoqueen,Poison,Ground,90,83,86,76,194,,,Body Slam,Poison Jab,Dig,Dragon Claw
+032,Nidoran M,Poison,,46,48,40,50,60,16,Nidorino,Scratch,Poison Sting,Karate Chop,
+033,Nidorino,Poison,,61,63,56,65,118,32,Nidoking,Stomp,Acid,Dig,Karate Chop
+034,Nidoking,Poison,Ground,81,93,76,85,195,,,Body Slam,Poison Jab,Earthquake,Ice Beam
+035,Clefairy,Fairy,,70,52,56,35,68,30,Clefable,Pound,Confusion,,
+036,Clefable,Fairy,,95,82,81,60,129,,,Stomp,Confusion,Thunderbolt,Flamethrower
+037,Vulpix,Fire,,38,45,52,65,63,36,Ninetales,Tackle,Ember,Mud Slap,
+038,Ninetales,Fire,,73,78,87,100,178,,,Body Slam,Flamethrower,Fire Blast,Dig
+039,Jigglypuff,Normal,Fairy,115,45,22,20,76,30,Wigglytuff,Pound,Mud Slap,,
+040,Wigglytuff,Normal,Fairy,140,77,47,45,109,,,Body Slam,Dig,Iron Head,Mega Punch
+041,Zubat,Poison,Flying,40,37,37,55,54,22,Golbat,Bug Bite,Poison Sting,,
+042,Golbat,Poison,Flying,75,72,72,90,171,,,Leech Life,Sludge,Wing Attack,Crunch
+043,Oddish,Grass,Poison,45,62,60,30,78,21,Gloom,Leafage,Acid,,
+044,Gloom,Grass,Poison,60,75,72,40,132,31,Vileplume,Razor Leaf,Acid,,
+045,Vileplume,Grass,Poison,75,95,87,50,184,,,Razor Leaf,Solar Beam,Sludge,Poison Jab
+046,Paras,Bug,Grass,35,57,55,25,70,24,Parasect,Scratch,Bug Bite,Leafage,
+047,Parasect,Bug,Grass,60,77,80,30,128,,,Slash,Leech Life,Leafage,Razor Leaf
+048,Venonat,Bug,Poison,60,47,52,45,75,31,Venomoth,Scratch,Bug Bite,Poison Sting,
+049,Venomoth,Bug,Poison,70,77,67,90,138,,,Slam,Bug Bite,Poison Jab,Psybeam
+050,Diglett,Ground,,10,45,35,95,81,26,Dugtrio,Scratch,Mud Slap,Dig,
+051,Dugtrio,Ground,,35,65,60,120,153,,,Slash,Dig,Earthquake,
+052,Meowth,Normal,,40,42,37,90,69,28,Persian,Scratch,Bite,,
+053,Persian,Normal,,65,67,62,115,148,,,Slash,Bite,Crunch,
+054,Psyduck,Water,,50,58,49,55,80,33,Golduck,Tackle,Bubble,Confusion,
+055,Golduck,Water,,80,88,79,85,174,,,Slam,Bubble Beam,Surf,Psybeam
+056,Mankey,Fighting,,40,57,40,70,74,28,Primeape,Pound,Karate Chop,,
+057,Primeape,Fighting,,65,82,65,95,149,,,Karate Chop,Mega Punch,Thunder Punch,Ice Punch
+058,Growlithe,Fire,,55,70,47,60,91,36,Arcanine,Tackle,Ember,Bite,
+059,Arcanine,Fire,,90,105,80,95,213,,,Slam,Flamethrower,Fire Blast,Crunch
+060,Poliwag,Water,,40,45,40,90,77,25,Poliwhirl,Tackle,Bubble,,
+061,Poliwhirl,Water,,65,57,57,90,131,32,Poliwrath,Slam,Bubble,Bubble Beam,Karate Chop
+062,Poliwrath,Water,Fighting,90,82,92,70,185,,,Bubble Beam,Surf,Karate Chop,Mega Punch
+063,Abra,Psychic,,25,62,35,90,73,16,Kadabra,Pound,,,
+064,Kadabra,Psychic,,40,77,50,105,145,36,Alakazam,Slam,Confusion,Psybeam,
+065,Alakazam,Psychic,,55,92,70,120,186,,,Psybeam,Psychic,Shadow Ball,Thunderbolt
+066,Machop,Fighting,,70,57,42,35,88,28,Machoke,Tackle,Karate Chop,,
+067,Machoke,Fighting,,80,75,65,45,146,36,Machamp,Slam,Karate Chop,Mega Punch,
+068,Machamp,Fighting,,90,97,82,55,193,,,Karate Chop,Mega Punch,Earthquake,Fire Punch
+069,Bellsprout,Grass,Poison,50,72,32,40,84,21,Weepinbell,Acid,Leafage,,
+070,Weepinbell,Grass,Poison,65,87,47,55,151,35,Victreebel,Sludge,Leafage,Razor Leaf,
+071,Victreebel,Grass,Poison,80,102,67,70,191,,,Slude,Razor Leaf,Solar Beam,Rock Throw
+072,Tentacool,Water,Poison,40,45,67,70,105,30,Tentacruel,Constrict,Bubble,Acid,
+073,Tentacruel,Water,Poison,80,75,92,100,205,,,Body Slam,Bubble Beam,Surf,Poison Jab
+074,Geodude,Rock,Ground,40,55,65,20,86,25,Graveler,Rock Throw,Mud Slap,,
+075,Graveler,Rock,Ground,55,70,80,35,134,36,Golem,Rock Throw,Rock Slide,Mud Slap,Dig
+076,Golem,Rock,Ground,80,87,97,45,177,,,Rock Slide,Stone Edge,Earthquake,Iron Head
+077,Ponyta,Fire,,50,75,60,90,152,40,Rapidash,Stomp,Ember,Flamethrower,
+078,Rapidash,Fire,,65,90,75,105,192,,,Slam,Flamethrower,Fire Blast,Earthquake
+079,Slowpoke,Water,Psychic,90,52,52,15,99,37,Slowbro,Bubble,Bubble Beam,Confusion,
+080,Slowbro,Water,Psychic,95,87,95,30,164,,,Surf,Hydro Pump,Psybeam,Psychic
+081,Magnemite,Electric,Steel,25,65,62,45,89,30,Magneton,Thunder Shock,Thunderbolt,Metal Sound,
+082,Magneton,Electric,Steel,50,90,82,70,161,,,Thunderbolt,Thunder,Metal Sound,Flash Cannon
+083,Farfetch'd,Normal,Flying,52,61,58,60,94,,,Slash,Wing Attack,Drill Peck,
+084,Doduo,Normal,Flying,35,60,40,75,96,31,Dodrio,Scratch,Gust,Wing Attack,
+085,Dodrio,Normal,Flying,60,85,65,100,158,,,Wing Attack,Drill Peck,Iron Head,
+086,Seel,Water,,65,45,62,45,100,34,Dewgong,Tackle,Bubble,,
+087,Dewgong,Water,Ice,90,70,87,70,176,,,Slam,Bubble Beam,Surf,Ice Beam
+088,Grimer,Poison,,80,60,50,25,90,38,Muk,Acid,Sludge,,
+089,Muk,Poison,,105,85,87,50,157,,,Sludge,Poison Jab,Earthquake,
+090,Shellder,Water,,30,55,62,40,97,35,Cloyster,Tackle,Water Gun,Icy Wind,
+091,Cloyster,Water,Ice,50,90,112,70,203,,,Body Slam,Surf,Hydro Pump,Blizzard
+092,Gastly,Ghost,Poison,30,67,32,80,95,25,Haunter,Tackle,Lick,,
+093,Haunter,Ghost,Poison,45,82,50,95,126,36,Gengar,Lick,Shadow Ball,Bite,
+094,Gengar,Ghost,Poison,60,97,67,110,190,,,Shadow Ball,Mega Punch,Psychic,Ice Beam
+095,Onix,Rock,Ground,35,37,102,70,108,,,Rock Slide,Stone Edge,Dig,Earthquake
+096,Drowzee,Psychic,,60,45,67,42,102,26,Hypno,Pound,Confusion,Lick,
+097,Hypno,Psychic,,85,73,92,67,165,,,Body Slam,Psybeam,Psychic,Fire Punch
+098,Krabby,Water,,30,65,57,50,115,28,Kingler,Bubble,Bubble Beam,,
+099,Kingler,Water,,55,90,82,75,206,,,Body Slam,Surf,Hydro Pump,Metal Claw
+100,Voltorb,Electric,,40,42,52,100,103,30,Electrode,Tackle,Thunder Shock,Thunderbolt,
+101,Electrode,Electric,,60,65,75,140,150,,,Thunderbolt,Thunder,Hyper Beam,Flamethrower
+102,Exeggcute,Grass,Psychic,60,50,62,40,98,38,Exeggutor,Leafage,Confusion,,
+103,Exeggutor,Grass,Psychic,95,110,75,55,212,,,Razor Leaf,Solar Beam,Psybeam,Psychic
+104,Cubone,Ground,,50,45,72,35,87,28,Marowak,Tackle,Rock Throw,Mud Slap,
+105,Marowak,Ground,,60,65,95,45,124,,,Dig,Earthquake,Rock Slide,Ice Punch
+106,Hitmonlee,Fighting,,50,77,81,87,139,,,Jump Kick,Mega Kick,Body Slam,
+107,Hitmonchan,Fighting,,50,70,94,76,140,,,Mega Punch,Fire Punch,Thunder Punch,Ice Punch
+108,Lickitung,Normal,,90,57,75,30,127,,,Lick,Body Slam,Hyper Beam,Blizzard
+109,Koffing,Poison,,40,62,70,35,114,35,Weezing,Pound,Acid,,
+110,Weezing,Poison,,65,87,95,60,173,,,Body Slam,Poison Jab,Flamethrower,Thunderbolt
+111,Rhyhorn,Ground,Rock,80,57,62,25,135,42,Rhydon,Stomp,Rock Throw,Rock Slide,
+112,Rhydon,Ground,Rock,105,87,82,40,204,,,Stomp,Rock Slide,Stone Edge,Earthquake
+113,Chansey,Normal,,250,20,55,50,255,,,Body Slam,Hyper Beam,Surf,Blizzard
+114,Tangela,Grass,,65,77,77,60,166,,,Constrict,Sludge,Bug Bite,Razor Leaf
+115,Kangaskhan,Normal,,105,67,80,90,175,,,Body Slam,Earthquake,Mega Punch,Thunder Punch
+116,Horsea,Water,,30,55,47,60,83,32,Seadra,Slam,Bubble,,
+117,Seadra,Water,,55,80,70,85,155,,,Body Slam,Bubble Beam,Surf,Draco Meteor
+118,Goldeen,Water,,45,51,55,63,111,33,Seaking,Tackle,Bubble Beam,Bite,
+119,Seaking,Water,,80,78,72,68,170,,,Slam,Surf,Hydro Pump,Crunch
+120,Staryu,Water,,30,57,55,85,106,35,Starmie,Water Gun,Thunder Shock,,
+121,Starmie,Water,Psychic,60,87,85,115,207,,,Surf,Hydro Pump,Thunderbolt,Psychic
+122,Mr. Mime,Psychic,Fairy,40,72,92,90,136,,,Confusion,Psychic,Shadow Ball,Fire Punch
+123,Scyther,Bug,Flying,70,82,80,105,187,,,Slash,Leech Life,Wing Attack,Dragon Claw
+124,Jynx,Ice,Psychic,65,82,65,95,137,,,Hyper Beam,Blizzard,Ice Punch,Psychic
+125,Electabuzz,Electric,,65,89,71,105,156,,,Body Slam,Thunder Punch,Thunder,Dig
+126,Magmar,Fire,,65,97,71,93,167,,,Body Slam,Fire Punch,Fire Blast,Sludge
+127,Pinsir,Bug,,65,90,85,85,200,,,Leech Life,Wing Attack,Mega Punch,Solar Beam
+128,Tauros,Normal,,75,70,82,110,211,,,Body Slam,Hyper Beam,Blizzard,Earthquake
+129,Magikarp,Water,,20,12,37,80,20,20,Gyarados,Tackle,,,
+130,Gyarados,Water,Flying,95,92,89,81,214,,,Hyper Beam,Surf,Hydro Pump,Dragon Breath
+131,Lapras,Water,Ice,130,85,87,60,219,,,Body Slam,Surf,Ice Beam,Thunderbolt
+132,Ditto,Normal,,48,48,48,48,61,,,Tackle,,,
+133,Eevee,Normal,,55,50,57,55,92,25,,Tackle,Bite,,
+134,Vaporeon,Water,,130,87,77,65,196,,,Crunch,Surf,Ice Beam,Sludge
+135,Jolteon,Electric,,65,87,77,130,197,,,Crunch,Thunderbolt,Thunder,Mega Kick
+136,Flareon,Fire,,65,112,85,65,198,,,Crunch,Flamethrower,Dig,Shadow Ball
+137,Porygon,Normal,,65,72,72,40,130,,,Slam,Hyper Beam,Ice Beam,Thunderbolt
+138,Omanyte,Rock,Water,35,65,77,35,120,40,Omastar,Tackle,Water Gun,Rock Throw,
+139,Omastar,Rock,Water,70,87,97,55,199,,,Hyper Beam,Surf,Rock Slide,Ice Beam
+140,Kabuto,Rock,Water,30,67,67,55,119,40,Kabutops,Scratch,Bubble,Rock Throw,
+141,Kabutops,Rock,Water,60,90,87,80,201,,,Slash,Surf,Hydr Pump,Stone Edge
+142,Aerodactyl,Rock,Flying,80,82,70,130,202,,,Crunch,Rock Slide,Stone Edge,Wing Attack
+143,Snorlax,Normal,,160,87,87,30,154,,,Body Slam,Iron Head,Earthquake,Ice Punch
+144,Articuno,Ice,Flying,90,90,112,85,215,,,Wing Attack,Ice Beam,Blizzard,Psychic
+145,Zapdos,Electric,Flying,90,107,87,100,216,,,Drill Peck,Thunderbolt,Thunder,Mega Kick
+146,Moltres,Fire,Flying,90,112,87,90,217,,,Wing Attack,Flamethrower,Fire Blast,Crunch
+147,Dratini,Dragon,,41,57,47,50,67,30,Dragonair,Constrict,Dragon Rage,,
+148,Dragonair,Dragon,,61,77,67,70,144,55,Dragonite,Slam,Dragon Breath,,
+149,Dragonite,Dragon,Flying,91,117,97,80,218,,,Dragon Claw,Draco Meteor,Wing Attack,Thunder Punch
+150,Mewtwo,Psychic,,106,132,90,130,220,,,Psychic,Blizzard,Hyper Beam,Shadow Ball
+151,Mew,Psychic,,100,100,100,100,64,,,Psychic,Flamethrower,Thunderbolt,Ice Beam

@@ -1,0 +1,45 @@
+NAME,BADGE?,CONNECTIONS,,Steps,Boss,Boss Level,Boss Catchable?,Min Level,Max Level,Wild Catchable?,Encounters,,,,,,
+Route 1,,Pallet Town,Viridian City,3,,,,2,4,Yes,Pidgey,Rattata,Nidoran M,Nidoran F,,,
+Viridian Forrest,,Viridian City,Pewter City,5,,,,3,6,Yes,Caterpie,Metapod,Weedle,Kakuna,Pikachu,Bulbasaur,
+Digglet's Cave,,Pewter City,Vermilion City,6,,,,13,18,Yes,Diglett,Diglett,Diglett,Dugtrio,Rhyhorn,,
+Mount Moon,,Pewter City,Cerulean City,10,Meowth,8,,6,11,Yes,Zubat,Geodude,Paras,Clefairy,Omanyte,Kabuto,Charmander
+Route 5,,Cerulean City,Saffron City,6,,,,24,26,Yes,Pidgey,Meowth,Oddish,Bellsprout,Abra,Eevee,Jigglypuff
+Route 6,,Vermilion City,Saffron City,6,,,,23,26,Yes,Meowth,Oddish,Bellsprout,Squirtle,Poliwag,Jigglypuff,
+Underground Path N-S,,Cerulean City,Vermilion City,4,,,,12,15,Yes,Pidgey,Meowth,Oddish,Bellsprout,Eevee,Jigglypuff,
+Route 7,,Celadon City,Saffron City,4,,,,18,21,Yes,Vulpix,Growlithe,Oddish,Bellsprout,Porygon,Jigglypuff,
+Route 8,,Lavender Town,Saffron City,6,,,,26,29,Yes,Vulpix,Growlithe,Ekans,Sandshrew,Jigglypuff,,
+Underground Path E-W,,Celadon City,Lavender Town,4,,,,11,16,Yes,Vulpix,Growlithe,Ekans,Sandshrew,Porygon,Jigglypuff,
+Rock Tunnel,,Cerulean City,Lavender Town,10,,,,14,16,Yes,Geodude,Zubat,Mankey,Machop,Onix,,
+Lavender Tower,,Lavender Town,Lavender Town,8,Marowak,30,Yes,17,23,Yes,Gastly,Gastly,Haunter,Cubone,,,
+Route 11,,Vermilion City,Fishing Village,5,,,,11,16,Yes,Spearow,Ekans,Sandshrew,Drowzee,Magikarp,Mr. Mime,
+Route 12,,Lavender Town,Fishing Village,3,,,,23,27,Yes,Magikarp,Krabby,Horsea,Psyduck,Slowpoke,,
+Route 13,,Fishing Village,Safari Zone,6,,,,25,29,Yes,Venonat,Farfetch'd,Ditto,Poliwag,Goldeen,,
+Route 15,,Safari Zone,Fuchsia City,5,,,,25,31,Yes,Venonat,Oddish,Bellsprout,Ditto,Farfetch'd,,
+Safari Fields,,Safari Zone,Safari Zone,8,,,,24,33,Yes,Chansey,Kangaskhan,Scyther,Pinsir,Tauros,Dratini,Exeggcute
+Cycling Road,,Celadon City,Fuchsia City,10,Snorlax,30,Yes,31,36,Yes,Raticate,Spearow,Fearow,Doduo,Lickitung,Eevee,Ponyta
+Route 19,,Fuchsia City,East Seafoam,5,,,,30,40,Yes,Tentacool,Tentacruel,Krabby,Horsea,Gyarados,Wartortle,
+Seafoam Cave,,East Seafoam,West Seafoam,10,Articuno,50,Yes,39,44,Yes,Zubat,Seel,Lapras,Dewgong,Jynx,Shellder,Slowpoke
+Route 20,,West Seafoam,Cinnabar Island,5,,,,32,36,Yes,Tentacool,Goldeen,Staryu,Poliwag,Shellder,Seel,
+Route 21,,Pallet Town,Cinnabar Island,4,,,,20,35,Yes,Tangela,Venonat,Tentacool,Horsea,Krabby,Psyduck,Slowpoke
+Route 22,,Viridian City,League Gate,8,Pidgey,12,,3,8,Yes,Spearow,Mankey,Rattata,Nidoran M,Nidoran F,,
+Victory Road,,League Gate,Indigo Plateau,15,Moltres,50,Yes,41,46,Yes,Golbat,Machoke,Graveler,Onix,Rhydon,,
+Nugget Bridge,,Cerulean City,Sea Cottage,5,Zubat,11,,8,11,Yes,Rattata,Abra,Caterpie,Weedle,Ekans,Mankey,Nidoran F
+Power Plant,,Sea Cottage,Sea Cottage,12,Zapdos,50,Yes,37,42,Yes,Magnemite,Voltorb,Electrode,Grimer,Koffing,Electabuzz,
+Cerulean Cave,,Cerulean City,Cerulean City,16,Mewtwo,70,Yes,51,56,Yes,Golbat,Lickitung,Rhydon,Snorlax,Poliwrath,Golduck,Chansey
+Cinnebar Mansion,,Cinnabar Island,Cinnabar Island,15,Mew,60,Yes,39,44,Yes,Aerodactyl,Vulpix,Muk,Growlithe,Weezing,Magmar,Ponyta
+Celadon Game Corner,,Celadon City,Celadon City,7,Eevee,35,Yes,25,29,Yes,Zubat,Koffing,Grimer,Ekans,Machop,Magnemite,
+Silph Co,,Saffron City,Saffron City,14,Lapras,30,Yes,30,35,Yes,Raticate,Electabuzz,Magmar,Grimer,Arbok,Hypno,Kadabra
+Pewter City Gym,Boulder,Pewter City,Pewter City,2,Onix,14,,10,12,,Geodude,Geodude,Sandshrew,,,,
+Cerulean City Gym,Cascade,Cerulean City,Cerulean City,2,Starmie,19,,15,17,,Staryu,Tentacool,Psyduck,,,,
+Vermilion City Gym,Thunder,Vermilion City,Vermilion City,3,Raichu,23,,19,21,,Pikachu,Magnemite,Voltorb,,,,
+Celadon City Gym,Rainbow,Celadon City,Celadon City,4,Vileplume,32,,25,29,,Bellsprout,Oddish,Weepinbell,Gloom,Tangela,,
+Fuchsia City Gym,Soul,Fuchsia City,Fuchsia City,5,Weezing,42,,35,39,,Grimer,Koffing,Zubat,Golbat,Venomoth,,
+Saffron City Gym,Marsh,Saffron City,Saffron City,6,Alakazam,44,,38,43,,Mr. Mime,Jynx,Slowbro,Kadabra,,,
+Cinnabar Island Gym,Volcano,Cinnabar Island,Cinnabar Island,5,Arcanine,48,,42,46,,Magmar,Charmeleon,Growlithe,Vulpix,Ninetales,Ponyta,Rapidash
+Viridian City Gym,Earth,Viridian City,Viridian City,4,Rhydon,50,,48,49,,Rhyhorn,Nidoqueen,Nidoking,Dugtrio,Sandslash,,
+Fighting Dojo,,Saffron City,Saffron City,3,,,,30,30,Yes,Hitmonlee,Hitmonchan,,,,,
+League 1,,Indigo Plateau,League 2,3,Lapras,54,,51,54,,Dewgong,Jynx,Cloyster,Slowbro,,,
+League 2,,League 1,League 3,3,Machamp,56,,52,54,,Hitmonlee,Hitmonchan,Poliwrath,Machoke,,,
+League 3,,League 2,League 4,3,Gengar,58,,53,56,,Gastly,Gengar,Haunter,Haunter,Golbat,,
+League 4,,League 3,Champion,3,Dragonite,60,,54,58,,Dragonair,Dragonair,Gyarados,Aerodactyl,Charizard,,
+Champion,Champion,League 4,Credits,5,Blastoise,63,,56,61,,Pidgeot,Alakazam,Rhydon,Arcanine,Exeggutor,Gyarados,

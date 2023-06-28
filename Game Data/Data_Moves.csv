@@ -1,0 +1,66 @@
+NAME,TYPE,POWER,ACCURACY
+Twineedle,Bug,35,100%
+Bug Bite,Bug,55,95%
+Leech Life,Bug,85,85%
+Bite,Dark,50,95%
+Crunch,Dark,75,90%
+Dragon Rage,Dragon,40,100%
+Dragon Breath,Dragon,65,90%
+Dragon Claw,Dragon,80,85%
+Draco Meteor,Dragon,130,55%
+Thunder Shock,Electric,40,100%
+Thunder Punch,Electric,75,90%
+Thunderbolt,Electric,80,85%
+Thunder,Electric,110,70%
+Karate Chop,Fighting,50,100%
+Jump Kick,Fighting,85,85%
+Mega Punch,Fighting,95,80%
+Mega Kick,Fighting,125,65%
+Ember,Fire,40,100%
+Fire Punch,Fire,75,90%
+Flamethrower,Fire,85,85%
+Fire Blast,Fire,110,75%
+Gust,Flying,40,100%
+Wing Attack,Flying,60,95%
+Drill Peck,Flying,80,85%
+Lick,Ghost,30,100%
+Shadow Ball,Ghost,80,90%
+Leafage,Grass,45,100%
+Razor Leaf,Grass,65,95%
+Solar Beam,Grass,120,65%
+Mud Slap,Ground,30,100%
+Dig,Ground,75,90%
+Earthquake,Ground,100,85%
+Icy Wind,Ice,45,100%
+Ice Punch,Ice,75,90%
+Ice Beam,Ice,90,80%
+Blizzard,Ice,125,75%
+Constrict,Normal,30,100%
+Scratch,Normal,40,100%
+Tackle,Normal,40,100%
+Pound,Normal,45,100%
+Stomp,Normal,55,100%
+Slash,Normal,70,90%
+Slam,Normal,70,90%
+Hyper Fang,Normal,80,85%
+Body Slam,Normal,85,85%
+Hyper Beam,Normal,150,40%
+Poison Sting,Poison,40,100%
+Acid,Poison,45,100%
+Sludge,Poison,65,90%
+Poison Jab,Poison,80,85%
+Confusion,Psychic,50,90%
+Psybeam,Psychic,70,85%
+Psychic,Psychic,90,80%
+Rock Throw,Rock,50,95%
+Rock Slide,Rock,75,90%
+Stone Edge,Rock,110,70%
+Metal Claw,Steel,50,95%
+Metal Sound,Steel,60,95%
+Flash Cannon,Steel,80,85%
+Iron Head,Steel,85,85%
+Water Gun,Water,40,100%
+Bubble,Water,45,100%
+Bubble Beam,Water,65,95%
+Surf,Water,90,85%
+Hydro Pump,Water,110,65%
